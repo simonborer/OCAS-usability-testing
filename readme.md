@@ -6,11 +6,11 @@ Our objective is to identify points of friction and potential barriers to comple
 
 ### Scope
 
-We will be collecting data from observing and recording sessions with on-site users. We will be testing the English language version of the form in the latest version of Chrome, on Windows desktop computers, along with a control group using a recent [Android][1] handheld device. We will provide data from a control group using keyboard-only navigation. 
+We will be collecting data from observing and recording sessions with on-site users. We will be testing the English language version of the form in the latest version of Chrome, on Windows desktop computers, along with a control group using a recent Android<sup><a href="footnote1">1</a></sup> handheld device. We will provide data from a control group using keyboard-only navigation. 
 
-[We may provide an automated accessibility report][2]. 
+We <em>may</em> provide an automated accessibility report<sup><a href="footnote2">2</a></sup>. 
 
-Some form submission data will, by necessity, need to be fictional, but our hope is to encourage participants to use [as much of their own data as they are comfortable with][3], so as to increase the realism of time-to-completion. 
+Some form submission data will, by necessity, need to be fictional, but our hope is to encourage participants to use as much of their own data as they are comfortable with<sup><a href="footnote3">3</a></sup>, so as to increase the realism of time-to-completion. 
 
 ## Methods
 
@@ -31,13 +31,13 @@ For all groups, tasks will be evaluated via a PURE rubric.
 
 ### Scenario
 
-Users will be asked to complete the application form beginning at <https://www.ontariocolleges.ca/en>, applying to three (3) Ontario colleges. They will be provided with any necessary ["dummy" information][4], including credit card information, OEN, and any other personally identifying information they are not comfortable providing. All other information should be their own (but only [within the boundaries of their comfort][3]). 
+Users will be asked to complete the application form beginning at <https://www.ontariocolleges.ca/en>, applying to three (3) Ontario colleges. They will be provided with any necessary "dummy" information<sup><a href="footnote4">4</a></sup>, including credit card information, OEN, and any other personally identifying information they are not comfortable providing. All other information should be their own (but only within the boundaries of their comfort<sup><a href="footnote3">3</a></sup>). 
 
 ### Tasks
 
-[TBD][6]
+TBD<sup><a href="footnote6">6</a></sup>
 
-[After completing a task at the mid-point of the form][7], they will be asked to close their browser session for at least 20 seconds. Following this, the test moderator will have them begin again at the start page, and ask them to resume their application.
+After completing a task at the mid-point of the form<sup><a href="footnote7">7</a></sup>, they will be asked to close their browser session for at least 20 seconds. Following this, the test moderator will have them begin again at the start page, and ask them to resume their application.
 
 ### Roles
 
@@ -45,15 +45,15 @@ Each group will have five (5) participants and at least three (3) test administr
 
 ### Participants
 
-Individual participants have yet to be identified as of this writing (28/05/18). [Once they are identified][5], their demographic information will be recorded here.
+Individual participants have yet to be identified as of this writing (28/05/18). Once they are identified<sup><a href="footnote5">5</a></sup>, their demographic information will be recorded here.
 
 Participants are post-graduate certificate students. Efforts have been been made to find a diverse group, including participants from various cultural and socio-economic backgrounds, varying levels of English fluency, and people of different genders. 
 
 ### Equipment 
 
-In a mobile lab, outfitted with fully enclosed cubicles for users and mirrored displays for observers. Computers are [Windows][8] machines running [Chrome][8] as the browser client.
+In a mobile lab, outfitted with fully enclosed cubicles for users and mirrored displays for observers. Computers are Windows<sup><a href="footnote8">8</a></sup> machines running Chrome<sup><a href="footnote8">8</a></sup> as the browser client.
 
-Screen capture software used is [Morae][8], and eye-tracking hardware/software is [Tobii][8]. 
+Screen capture software used is Morae<sup><a href="footnote8">8</a></sup>, and eye-tracking hardware/software is Tobii<sup><a href="footnote8">8</a></sup>. 
 
 ### Location
 
@@ -65,13 +65,13 @@ Sessions will occur Wednesdays from 1:30-4:10, and Thursdays from 11:40-2:30, Ma
 
 ## TODO
 
-<ul>
-	<li><small>[1] Is this what we're doing?</small></li>
-	<li><small>[2] Will we?</small></li>
-	<li><small>[3] Is this weird?</small></li>
-	<li><small>[4] Add this as an appendix when available</small></li>
-	<li><small>[5] Participants and their information</small></li>
-	<li><small>[6] Determine tasks</small></li>
-	<li><small>[7] Determine save point</small></li>
-	<li><small>[8] Determine version</small></li>
-</ul>
+<ol>
+	<li><small id="footnote1">Is this what we're doing?</sup></li>
+	<li><small id="footnote2">Will we?</sup></li>
+	<li><small id="footnote3">Is this weird?</sup></li>
+	<li><small id="footnote4">Add this as an appendix when available</sup></li>
+	<li><small id="footnote5">Participants and their information</sup></li>
+	<li><small id="footnote6">Determine tasks</sup></li>
+	<li><small id="footnote7">Determine save point</sup></li>
+	<li><small id="footnote8">Determine version</sup></li>
+</ol>

@@ -66,12 +66,12 @@ Sessions will occur Wednesdays from 1:30-4:10, and Thursdays from 11:40-2:30, Ma
 ## TODO
 
 <ol>
-	<li><small id="footnote1">Is this what we're doing?</sup></li>
-	<li><small id="footnote2">Will we?</sup></li>
-	<li><small id="footnote3">Is this weird?</sup></li>
-	<li><small id="footnote4">Add this as an appendix when available</sup></li>
-	<li><small id="footnote5">Participants and their information</sup></li>
-	<li><small id="footnote6">Determine tasks</sup></li>
-	<li><small id="footnote7">Determine save point</sup></li>
-	<li><small id="footnote8">Determine version</sup></li>
+	<li><small id="footnote1">Is this what we're doing?</small></li>
+	<li><small id="footnote2">Will we?</small></li>
+	<li><small id="footnote3">Is this weird?</small></li>
+	<li><small id="footnote4">Add this as an appendix when available</small></li>
+	<li><small id="footnote5">Participants and their information</small></li>
+	<li><small id="footnote6">Determine tasks</small></li>
+	<li><small id="footnote7">Determine save point</small></li>
+	<li><small id="footnote8">Determine version</small></li>
 </ol>

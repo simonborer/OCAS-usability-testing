@@ -6,11 +6,9 @@ Our objective is to identify points of friction and potential barriers to comple
 
 ### Scope
 
-We will be collecting data from observing and recording sessions with on-site users. We will be testing the English language version of the form in the latest version of Chrome, on Windows desktop computers, along with a control group using a recent Android<sup><a target="_self" href="#footnote1">1</a></sup> handheld device. We will provide data from a control group using keyboard-only navigation. 
+We will be collecting data from observing and recording sessions with on-site users. These users will be drawn from our available pool of post-graduate students. We will be testing the English language version of the form in the latest version of Chrome, on Windows desktop computers, along with a control group using a recent Android<sup><a target="_self" href="#footnote1">1</a></sup> handheld device. We will provide data from a control group using keyboard-only navigation. 
 
 We <em>may</em> provide an automated accessibility report<sup><a target="_self" href="#footnote2">2</a></sup>. 
-
-Some form submission data will, by necessity, need to be fictional, but our hope is to encourage participants to use as much of their own data as they are comfortable with<sup><a target="_self" href="#footnote3">3</a></sup>, so as to increase the realism of time-to-completion. 
 
 ## Methods
 
@@ -23,7 +21,7 @@ For all groups, tasks will be evaluated via a PURE rubric.
 ### Metrics
 
 1. Task evaluation via PURE rubric
-2. System Usability Scale
+2. System Usability Scale <sup><a href="#footnote9" target="_self">9</a></sup>
 3. Eyetracking heatmap
 4. Time-to-completion
 5. Success rate
@@ -31,7 +29,7 @@ For all groups, tasks will be evaluated via a PURE rubric.
 
 ### Scenario
 
-Users will be asked to complete the application form beginning at <https://www.ontariocolleges.ca/en>, applying to three (3) Ontario colleges. They will be provided with any necessary "dummy" information<sup><a target="_self" href="#footnote4">4</a></sup>, including credit card information, OEN, and any other personally identifying information they are not comfortable providing. All other information should be their own (but only within the boundaries of their comfort<sup><a target="_self" href="#footnote3">3</a></sup>). 
+Users will be asked to complete the application form beginning at <https://www.ontariocolleges.ca/en>, applying to three (3) Ontario colleges. They will be provided with any necessary "dummy" information<sup><a target="_self" href="#footnote4">4</a></sup>, including credit card information and OEN. All other information should be come from the user. 
 
 ### Tasks
 
@@ -68,10 +66,10 @@ Sessions will occur Wednesdays from 1:30-4:10, and Thursdays from 11:40-2:30, Ma
 <ol>
 	<li id="footnote1">Is this what we're doing?</li>
 	<li id="footnote2">Will we?</li>
-	<li id="footnote3">Is this weird?</li>
 	<li id="footnote4">Add this as an appendix when available</li>
 	<li id="footnote5">Participants and their information</li>
 	<li id="footnote6">Determine tasks</li>
 	<li id="footnote7">Determine save point</li>
 	<li id="footnote8">Determine version</li>
+	<li id="footnote9">_Which_ SUS?</li>
 </ol>

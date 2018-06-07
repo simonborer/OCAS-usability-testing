@@ -29,7 +29,23 @@ For all groups, tasks will be evaluated via a PURE rubric.
 
 ### Scenario
 
-Users will be asked to complete the application form beginning at <https://www.ontariocolleges.ca/en>, applying to three (3) Ontario colleges. They will be provided with any necessary "dummy" information<sup><a target="_self" href="#footnote3">3</a></sup>, including credit card information and OEN. All other information should be come from the user. 
+Users will start by searching for 1. a program (offered by Humber ) to apply for and 2. a college to apply to here https://www.uat.ontariocolleges.ca/en. User doesn't have to register right now to first ‘explore’ program options.  
+
+<em>NOTE: The idea that you have to research for programs and then log in and refind the programs is a known issue with our system that we are going to fix in the upcoming new version but that isn’t for another year or so.</em> 
+
+Find a few programs You would like to apply to. You should be applying to college as if You have never applied before You should be applying as yourself and use all your own information. All the data collected will be erased.
+
+<em>NOTE: Users may not understand at this point that You need to login. If they haven't, direct them to.</em>
+
+<em>NOTE: If You have a pre-existing account with a gmail address, add a +[test] sign after your username, and change your birthday.</em>
+
+You can attempt to find where you would like to apply but when you do the system will take you to the live site (not the test environment, this is a bug we are already aware of) which we need to avoid.  You will need to redirect yourself to: https://applicantlogin.uat.ontariocolleges.ca/en/Account/Register. <strong>It is very important that You always ensure You see “UAT” in your browsers url.</strong>
+
+When you get to the payment stage you can use 4242424242424242 to make a VISA payment. This only works in the UAT environment. You can put in any name and any expiry date.
+
+Once payment is made you will need to log in to the UAT environment at https://applicantlogin.uat.ontariocolleges.ca/ as a ‘different’ user. Give the username HumberJune<code>${1-25}</code>@test.ocas.ca and use the following password: Test123!A 
+
+<em>NOTE: The reason that account was created was because the UAT system can’t automatically generate offers so once a student has applied and paid You need to log out and go back to the “uat” (you must ensure UAT is in the login url or the account will not work) login page and log in using your assigned HumberTest account.</em>
 
 ### Tasks
 

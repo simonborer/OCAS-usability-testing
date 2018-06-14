@@ -49,9 +49,39 @@ Once payment is made you will need to log in to the UAT environment at https://a
 
 ### Tasks
 
-TBD<sup><a target="_self" href="#footnote4">5</a></sup>
+#### 1. Create Account
+- Register (make sure your URL includes UAT specific address)
+- Use as much of your personal information as possible, except for the following:
+	- Email: if you have a gmail account use it, and place "+test" before the @ symbol
+	- Birthdate: Use a different birthdate
+- Complete registration by accepting the link sent to your email
+- Use your newly signed-up email and password and Login to: http://apply.uat.ontariocolleges.ca/en
 
-After completing a task at the mid-point of the form<sup><a target="_self" href="#footnote6">6</a></sup>, they will be asked to close their browser session for at least 20 seconds. Following this, the test moderator will have them begin again at the start page, and ask them to resume their application.
+#### 2. Fill in Your Personal Information
+- Personal Info
+- Contact Info
+- Authorized Users
+- Citizenship & Residency
+- Education
+- Financial Support 
+- Experience
+
+#### 3. Apply for Program(s)
+- If you don't know what exact program you want to apply for, you can search for it now using the UAT site
+- Add Program(s)
+
+#### 4. Complete Payment
+- Pay by credit card
+	- _Name on card_: Can be any name
+	- _Credit card number_: 4242424242424242
+	- Any valid expiry date
+	- Any CVC code
+- Logout
+
+#### 5. Accept New Offer
+- Login to: http://apply.uat.ontariocolleges.ca/en
+	- Use the credentials provided in class
+- Accept the Offer
 
 ### Roles
 
